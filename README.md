@@ -8,8 +8,8 @@ edit the start and end time there.
 The data is pulled from an internal database, which can't be accessed from outside RIPE NCC, so this script won't produce
 anything useful if you don't have access to this database.
 The script produces 2 types of files:
-CSV: have a summary of the number of changes for a given timestamp.
-JSONF: have details on what prefixes and ASNs had what changes.
+* CSV: have a summary of the number of changes for a given timestamp.
+* JSONF: have details on what prefixes and ASNs had what changes.
 
 Both types of files are added to this repository.
 
